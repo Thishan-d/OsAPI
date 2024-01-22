@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSWebApi", "OSWebApi\OSWebApi.csproj", "{1F7CF9F9-20BE-4BA3-89DA-3242926E2F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsTest", "OsTest\OsTest.csproj", "{461BCEF4-50DF-4D60-92E2-5F835778C4C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7CF9F9-20BE-4BA3-89DA-3242926E2F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7CF9F9-20BE-4BA3-89DA-3242926E2F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7CF9F9-20BE-4BA3-89DA-3242926E2F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7CF9F9-20BE-4BA3-89DA-3242926E2F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461BCEF4-50DF-4D60-92E2-5F835778C4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461BCEF4-50DF-4D60-92E2-5F835778C4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461BCEF4-50DF-4D60-92E2-5F835778C4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461BCEF4-50DF-4D60-92E2-5F835778C4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1298D76E-B2D5-4036-8C96-77CC832EF001}
+	EndGlobalSection
+EndGlobal
